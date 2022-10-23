@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alisha Fong
+- 👋🏻 Hi, I’m Alisha Fong
 - 💻 My interests lie in robotics, applied AI, and feature development
 - 🦾 I’m currently learning how to incorporate language with robotic manipulation
 - 🍂 Next steps are to look for fulltime SWE jobs beginning Fall 2023
